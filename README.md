@@ -1,7 +1,7 @@
 # Simple Brainfuck Processor
 
 ![N|Solid](https://cdn.discordapp.com/attachments/628850852697866260/720739876605001809/unknown.png)
-*synthesised using digitaljs.tilk.eu*
+*simulated using digitaljs.tilk.eu*
 
 Simple brainfuck processor written in System Verilog for digital logic course at University of Wroclaw.
 
