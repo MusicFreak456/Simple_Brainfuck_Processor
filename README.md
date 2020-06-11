@@ -5,4 +5,4 @@
 
 Simple brainfuck processor written in System Verilog for digital logic course at University of Wroclaw.
 
-You can upload programs to memory using data_in and in_valid input, enter brainfuck symbols using their appropriate ASCII codes.
+You can upload programs to memory using in_data and in_valid input, enter brainfuck symbols using their appropriate ASCII codes.
